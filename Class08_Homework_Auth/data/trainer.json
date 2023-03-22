@@ -1,0 +1,26 @@
+[
+  {
+    "id": "73095b8f-404f-48dd-b222-4df13e280187",
+    "firstName": "Dalibor",
+    "lastName": "Stoyanchov",
+    "email": "dalibor@gmail.com",
+    "timeEmployed": "1 week",
+    "coursesFinished": 0
+  },
+  {
+    "id": "09059c57-069a-4d3a-9984-b3125614ad17",
+    "firstName": "Fordeletion",
+    "lastName": "Fordeletion2",
+    "email": "Fordeletion@gmail.com",
+    "timeEmployed": "1 year",
+    "coursesFinished": 6
+  },
+  {
+    "id": "c3ffa1da-b939-4926-8169-4936d887587c",
+    "firstName": "forDelete",
+    "lastName": "Stoyanchov",
+    "email": "ddddaaa@gmail.com",
+    "timeEmployed": "1 week",
+    "coursesFinished": 0
+  }
+]

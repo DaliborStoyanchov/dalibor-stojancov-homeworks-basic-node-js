@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "d508645c-9381-4808-9917-8a3ed47545fd",
+		"name": "Homework08-Auth",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26251355"
+	},
+	"item": [
+		{
+			"name": "User Register",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "User Login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
